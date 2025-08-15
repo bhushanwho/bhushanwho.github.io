@@ -4,7 +4,7 @@ name: Deploy Jekyll site to Pages
 on:
   # Runs on pushes targeting the default branch
   push:
-    branches: ["master"]
+    branches: ["main"]
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -36,7 +36,7 @@ jobs:
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
-      - run: bundle exec jekyll build --baseurl ${{ steps.pages.outputs.base_path }} # defaults output to '/_site'
+      - run: bundle exec jekyll build  # defaults output to '/_site'
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3 # This will automatically upload an artifact from the '/_site' directory
 
