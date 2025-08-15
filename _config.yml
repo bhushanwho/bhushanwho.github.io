@@ -3,8 +3,8 @@
 
 title: bhushanwho
 description: bhushan's page
-# baseurl: "" # the subpath of your site, e.g. /blog/
-# url: ""
+url: "https://bhushanwho.github.io"
+baseurl: ""
 # host: 0.0.0.0
 
 
