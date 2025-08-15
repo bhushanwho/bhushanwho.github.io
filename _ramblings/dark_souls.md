@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: ramble
 title:  "dark souls 1 as an allegory for life"
 date:   2025-07-31 00:20:21 +0530
 ---

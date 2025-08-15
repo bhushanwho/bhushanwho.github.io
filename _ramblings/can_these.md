@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: ramble
 title:  "the footer"
 date:   2025-08-08 21:21:21 +0530
 ---
