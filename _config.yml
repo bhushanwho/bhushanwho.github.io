@@ -1,0 +1,63 @@
+###########
+# site.title
+
+title: bhushanwho
+description: bhushan's page
+# baseurl: "" # the subpath of your site, e.g. /blog/
+# url: ""
+# host: 0.0.0.0
+
+
+#########################
+# more settings
+
+plugins:
+  - jekyll-redirect-from
+
+whitelist:
+  - jekyll-redirect-from
+
+markdown: kramdown
+
+compress_html:
+  clippings: all
+  comments: [""]
+  endings: [html, head, body, li, dt, dd, rt, rp, optgroup, option, colgroup, caption, thead, tbody, tfoot, tr, td, th]
+  profile: false
+  blanklines: false
+  ignore:
+    envs: []
+
+collections:
+  my_tags:
+    output: true
+    permalink: /tagged/:slug/
+  ramblings:
+    output: true
+    permalink: /ramblings/:slug/
+defaults:
+  -
+    scope:
+      path: ""
+      type: my_tags
+    values:
+      layout: tagged
+
+# baseurl: ""
+permalink: /blog/:slug
+timezone: Asia/Kolkata
+future: false
+
+exclude:
+- README.md
+- LICENSE.md
+
+exclude: [vendor]
+
+Blog: /blog
+Ramblings: /ramblings
+
+# Add general links to site pages here
+links:
+  # Resume: /assets/resume.pdf
+  

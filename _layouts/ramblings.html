@@ -1,0 +1,37 @@
+---
+layout: compress
+---
+
+{% include head.html %}
+
+<main>
+
+    {% include header.html %}
+
+    {{ content }}
+
+    <ul class="blog-posts">
+        {% assign post_list = site.ramblings | sort: 'date' | reverse %}
+        {% for post in post_list %}
+        <li>
+            <span>
+            <i>
+                <time datetime="{{ post.date | date_to_xmlschema }}">
+                {{ post.date | date: "%b %-d, %Y" }}
+                </time>
+            </i>
+            </span>
+            <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+        </li>
+        {% endfor %}
+
+    </ul>
+
+
+</main>
+
+{% include footer.html %}
+
+</body>
+
+</html>
