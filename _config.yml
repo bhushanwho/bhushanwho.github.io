@@ -52,10 +52,9 @@ exclude:
 - README.md
 - LICENSE.md
 
-exclude: [vendor]
-
 Blog: /blog
 Ramblings: /ramblings
+SayHi: /sayhi
 
 # Add general links to site pages here
 links:
