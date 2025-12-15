@@ -6,7 +6,7 @@ title: bhushan thala
 
 ## hi, i'm bhushan.
 
-third year cs undergrad. systems, networks and ml. outside of that, i read and write (horribly) sometimes. 
+third year cs undergrad. systems, networks and security. i read and write (horribly) sometimes. 
 pretty things are pretty; cool things are cool.
 math and computers are cool.
 
