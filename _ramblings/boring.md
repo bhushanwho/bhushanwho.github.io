@@ -1,32 +1,31 @@
 ---
 layout: ramble
-title:  "give the world the benefit of the doubt"
-date:   2025-10-06 00:55:21 +0530
+title: "give the world the benefit of the doubt"
+date: 2025-10-06 00:55:21 +0530
 ---
 
 # mrrrow
 
-views can be ones own but views are often polarising. misdemeaning almost. i talk to a bunch of people and they all seem to have such deterministic conclusive factuory statements to give.
+views can be ones own but views are often polarising. demeaning almost. i talk to a bunch of people and they all seem to have such deterministic conclusive statements to give.
 
 chill, we're 19. or 20. or 18. the world's out there to experience. determinism and normativity- normalcy should be our enemy if anything. live.
 
 maybe there's a right. maybe i'm right, maybe you're wrong. maybe you're right, maybe i'm wrong. what do we know, that we must impose a factuory statement?
 
-it's almost (quite literally is, not almost) an ethos imposition but without any authoritative high ground. 
+it's almost (quite literally is, not almost) an ethos imposition but without any authoritative high ground.
 
 at the end of the day, we know not much at all. it easy to impose, it is easy to rant out as if it were a twitter circle-jerk. it's easy, but it's not fun. it does not inspire.
 
-speaking of the phrase *"it does not inspire"*, do things that inspire.
+speaking of the phrase _"it does not inspire"_, do things that inspire.
 leave things that do not, you can only look back once at your current moment. there is only one unique UNIX epoch timestamp and that's here and now. why waste it on something that does not inspire? something you have to drag yourself to commit to?
 
 ...
 
-it's also really nice to leave room for thought. i've been thinking of how i haven't been thinking at all (ha, ironic). i've been merely existing for the better part of a month now. no fun, original, joyous, inspiring thought. "if thought was a curreny i'm living paycheck-to-paycheck" i said. 
-
+it's also really nice to leave room for thought. i've been thinking of how i haven't been thinking at all (ha, ironic). i've been merely existing for the better part of a month now. no fun, original, joyous, inspiring thought. "if thought was a curreny i'm living paycheck-to-paycheck" i said.
 
 only then, and by "then"; i mean a day ago, i started thinking. as one would, lmfao.
 
-it's nice. to be conscious in thought. 
+it's nice. to be conscious in thought.
 
 in conclusion, this is one hell of a phrase i keep saying in every remotely close ambiguous context
 
@@ -36,7 +35,7 @@ in conclusion, this is one hell of a phrase i keep saying in every remotely clos
 
 <br>
 
-ps: also, yes indeed sunrises skies are really pretty. 
+ps: also, yes indeed sunrises skies are really pretty.
 
 <div style="display:flex; justify-content:center;">
   <blockquote class="twitter-tweet" data-width="520">
@@ -49,4 +48,3 @@ ps: also, yes indeed sunrises skies are really pretty.
   </blockquote>
   <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
-

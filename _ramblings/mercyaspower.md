@@ -1,18 +1,18 @@
 ---
 layout: ramble
-title:  "mercy as power"
-date:   2025-08-19 00:55:21 +0530
+title: "mercy as power"
+date: 2025-08-19 00:55:21 +0530
 ---
 
-## [!!!!](https://open.spotify.com/track/0YJ9FWWHn9EfnN0lHwbzvV?si=2557f2f98b5e4fee)
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/0YJ9FWWHn9EfnN0lHwbzvV?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 amon goeth hears schindler's words and for a moment, he tries to put them on.
 
-*"mercy as power."*
+_"mercy as power."_
 
 he puts it on, almost like a mask. he pardons the boy in the bathroom, he speaks the word "forgive" as if to test how it sounds coming from his mouth. he looks at his reflection, trying to see the different kind of strength schindler talked about.
 
-for a while he holds it. he restrains, he lets people live when before he would have killed. the performance feels real, as though he could just set in and live through it. 
+for a while he holds it. he restrains, he lets people live when before he would have killed. the performance feels real, as though he could just set in and live through it.
 
 it doesn't last. the effort grows heavier, something pressing against him from the inside. the pauses between his impulses and actions shortens, until it eventually, like clockwork, disappears.
 
