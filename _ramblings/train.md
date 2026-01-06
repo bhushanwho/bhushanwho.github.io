@@ -18,7 +18,7 @@ the quote, beautiful, but not very practically ideal. infact there's a japanese 
 
 just earlier, my laptop's charger wouldn't fit. something was stuck in the charging port.
 
-went to grab a pair of tweezers from a cluttered pencil-stand. at immediate glance, found a thin bottom-up incense stick instead. my laziness assumed it'd do the trick, and i pulled it out only to find the tweezers attached to the head of it. immediately remembered that train quote and got to jotting this up. chose the incense stick only to lead me to the tweezers.
+went to grab a pair of tweezers from a cluttered pencil-stand. at immediate glance, found a thin bottom-up incense stick instead. my laziness assumed it'd do the trick, and i pulled it out only to find the tweezers attached to the head of it. immediately remembered that train quote and got to jotting this up. chose the incense stick only for it to lead me to the tweezers.
 
 it's been a while anyway, since anything ramble-worthy happened. took this as a perfect opportunity to yap, because who wouldn't.
 
