@@ -1,31 +1,72 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en" dir="ltr">
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
     <title>{{ page.title }} | {{ site.title }}</title>
-    <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
-    <link rel="shortcut icon" href="{{ site.baseurl }}/assets/favicon.ico" type="image/x-icon">
-    <link rel="icon" href="{{ site.baseurl }}/assets/favicon.ico" type="image/x-icon">
-    <link href='{{ site.baseurl }}/feed.xml' rel='alternate' type='application/atom+xml'>
-    <link rel="canonical" href="{{ site.baseurl }}{{ page.url }}">
-    <link rel="stylesheet" href="{{ site.baseurl }}/assets/style.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+    <meta
+      name="description"
+      content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}"
+    />
+    <link
+      rel="shortcut icon"
+      href="{{ site.baseurl }}/assets/favicon.ico"
+      type="image/x-icon"
+    />
+    <link
+      rel="icon"
+      href="{{ site.baseurl }}/assets/favicon.ico"
+      type="image/x-icon"
+    />
+    <link
+      href="{{ site.baseurl }}/feed.xml"
+      rel="alternate"
+      type="application/atom+xml"
+    />
+    <link rel="canonical" href="{{ site.baseurl }}{{ page.url }}" />
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/style.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"
+    />
 
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css">
-    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.js"></script>
-    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/auto-render.min.js"
-      onload="renderMathInElement(document.body, {
-        delimiters: [
-          {left: '$$', right: '$$', display: true},
-          {left: '$', right: '$', display: false},
-          {left: '\\[', right: '\\]', display: true},
-          {left: '\\(', right: '\\)', display: false}
-        ]
-      });"></script>
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css"
+    />
+    <script
+      defer
+      src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.js"
+    ></script>
+    <script
+      defer
+      src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/auto-render.min.js"
+      onload="
+        renderMathInElement(document.body, {
+          delimiters: [
+            { left: '$$', right: '$$', display: true },
+            { left: '$', right: '$', display: false },
+            { left: '\\[', right: '\\]', display: true },
+            { left: '\\(', right: '\\)', display: false },
+          ],
+        })
+      "
+    ></script>
 
-</head>
+    <!-- Highlight.js CSS (choose a theme) -->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/styles/stackoverflow-light.min.css"
+    />
 
-<body>
+    <!-- Highlight.js JavaScript -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/highlight.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/languages/rust.min.js"></script>
+    <script>
+      hljs.highlightAll();
+    </script>
+  </head>
+
+  <body></body>
+</html>
