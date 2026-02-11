@@ -2,7 +2,7 @@
 layout: design-post
 title: "informal gentle nudge to rust"
 date: 2026-02-09 08:21:21 +0530
-tags: [ml]
+tags: [notes]
 ---
 
 here's a loose, informal and gently introduction and nudge into rust.
