@@ -5,8 +5,8 @@ date: 2026-02-09 08:21:21 +0530
 tags: [notes]
 ---
 
-here's a loose, informal and gently introduction and nudge into rust.
-at least the basics, synctactically.
+here's a loose, informal and gentle introduction and nudge into rust.
+at least the basics, syntactically.
 
 this was buried in my obsidian notes and figured might as well be on here for reference.
 
