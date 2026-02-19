@@ -11,4 +11,5 @@ check it out: [bhushanwho.github.io](https://bhushanwho.github.io/)
 
 - built using [jekyllBear](https://github.com/knhash/jekyllBear), a minimal, text-focused Jekyll theme.
 
-- built using [utteranc.es](https://utteranc.es/)
+- (initally) using [utteranc.es](https://utteranc.es/)
+- using [giscus](https://giscus.app)

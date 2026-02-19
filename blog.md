@@ -5,4 +5,4 @@ description: i write things, sometimes.
 permalink: /blog
 ---
 
-"blogs"
+things
