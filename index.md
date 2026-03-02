@@ -5,7 +5,7 @@ title: bhushan thala
 
 ## hi, i'm bhushan.
 
-third year cs undergrad: everything it encompasses with a tinge of existential dread. and the regular kind too. i read sometimes.
+cs undergrad: everything it encompasses with a tinge of existential dread. and the regular kind too. i read sometimes.
 
 [blogs]({{ site.baseurl }}/blog). and silly [ramblings]({{ site.baseurl }}/ramblings).
 
