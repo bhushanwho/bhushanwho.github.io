@@ -3,17 +3,13 @@ layout: default
 title: bhushan thala
 ---
 
-
 ## hi, i'm bhushan.
 
-third year cs undergrad. systems, networks and security. i read and write (horribly) sometimes. 
-pretty things are pretty; cool things are cool.
-math and computers are cool.
+third year cs undergrad: everything it encompasses with a tinge of existential dread. and the regular kind too. i read sometimes.
 
-what i can know, i [*will*]({{ site.baseurl }}/blog). and what i can't? i lament [*here*]({{ site.baseurl }}/ramblings).
+[blogs]({{ site.baseurl }}/blog). and silly [ramblings]({{ site.baseurl }}/ramblings).
 
-
-### find me here:
+### ---
 
 <a href="https://github.com/bhushanwho" target="_blank">
   <i class="fab fa-github"></i>
@@ -21,9 +17,9 @@ what i can know, i [*will*]({{ site.baseurl }}/blog). and what i can't? i lament
 <a href="https://www.linkedin.com/in/bhushanwho" target="_blank">
   <i class="fab fa-linkedin"></i>
 </a> &nbsp; 
-<a href="https://x.com/0x0018h" target="_blank">
+<!-- <a href="https://x.com/0x0018h" target="_blank">
   <i class="fab fa-x-twitter"></i>
 </a> &nbsp; 
 <a href="https://open.spotify.com/user/sl48vhit0z7j0o8qz1vnsklz9" target="_blank">
   <i class="fab fa-spotify"></i>
-</a>
+</a> -->
