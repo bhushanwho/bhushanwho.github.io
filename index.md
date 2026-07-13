@@ -1,11 +1,11 @@
 ---
 layout: default
-title: bhushan thala
+title: waow page
 ---
 
 ## hi, i'm bhushan.
 
-cs undergrad: everything it encompasses with a tinge of existential dread. and the regular kind too. i read sometimes.
+cs undergrad: everything it encompasses with a tinge of existential dread. and the regular kind too.
 
 [blogs]({{ site.baseurl }}/blog). and silly [ramblings]({{ site.baseurl }}/ramblings).
 
