@@ -1,6 +1,6 @@
 ---
 layout: ramblings
-title: Ramblings
+title: ramblings
 description: i write things, sometimes.
 permalink: /ramblings
 ---

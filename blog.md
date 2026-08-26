@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Blog
+title: blog
 description: i write things, sometimes.
 permalink: /blog
 ---
