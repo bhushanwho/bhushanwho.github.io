@@ -1,8 +1,8 @@
 ---
 layout: design-post
-title: "cpp and linkages"
-date: 2025-08-27 08:21:21 +0530
-tags: [backend]
+title: "cpp and internal linkages"
+date: 2026-08-27 08:21:21 +0530
+tags: [dev]
 ---
 
 [google's c++ style guide](https://google.github.io/styleguide/cppguide.html#Internal_Linkage)
